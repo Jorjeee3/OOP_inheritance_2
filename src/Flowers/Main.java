@@ -1,9 +1,5 @@
 package Flowers;
-
 import java.time.LocalDate;
-
-
-
 public class Main {
 
     public static String getTotalCost(Flower[] array) {
